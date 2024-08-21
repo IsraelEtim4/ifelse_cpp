@@ -1,6 +1,6 @@
 ﻿if(true)
 {
-  Console.WriteLine("An If(true) Statement is a Code that will Always Run");
+  Console.WriteLine("An If(true) Statement is a Code that will Always Run. Thus it really matter?");
 }
 
 // 
