@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\ifElse\\ifElse.csproj": {}
+    "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\ifElse\\ifElse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\ifElse\\ifElse.csproj": {
+    "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\ifElse\\ifElse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\ifElse\\ifElse.csproj",
+        "projectUniqueName": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\ifElse\\ifElse.csproj",
         "projectName": "ifElse",
-        "projectPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\ifElse\\ifElse.csproj",
+        "projectPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\ifElse\\ifElse.csproj",
         "packagesPath": "C:\\Users\\EL'SOLO HUB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\ifElse\\obj\\",
+        "outputPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\ifElse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EL'SOLO HUB\\AppData\\Roaming\\NuGet\\NuGet.Config",
